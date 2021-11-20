@@ -13,3 +13,4 @@
 Домашние задания:
 
 1. Введение в PyTorch. Полносвязные нейронные сети: [ноутбук с заданием](https://github.com/isadrtdinov/intro-to-dl-hse/blob/main/homeworks/homework-01-mlp.ipynb)
+2. Классификация изображений. Сверточные нейронные сети: [ноутбук с заданием](https://github.com/isadrtdinov/intro-to-dl-hse/blob/main/homeworks/homework-02-cnn.ipynb)
