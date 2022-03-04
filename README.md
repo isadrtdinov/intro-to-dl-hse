@@ -18,4 +18,4 @@
 1. Введение в PyTorch. Полносвязные нейронные сети: [ноутбук с заданием](https://github.com/isadrtdinov/intro-to-dl-hse/blob/main/homeworks/homework-01-mlp.ipynb)
 2. Классификация изображений. Сверточные нейронные сети: [ноутбук с заданием](https://github.com/isadrtdinov/intro-to-dl-hse/blob/main/homeworks/homework-02-cnn.ipynb)
 3. Обработка текстов. Векторные представления (эмбеддинги). Рекуррентные нейронные сети и трансформеры: [ноутбук с заданием](https://github.com/isadrtdinov/intro-to-dl-hse/blob/main/homeworks/homework-03-text.ipynb)
-4. **(Бонус)** Метод k-ближайших соседей и автокодировщики.
+4. **(Бонус)** Метод k-ближайших соседей и автокодировщики. [ноутбук с заданием](https://github.com/isadrtdinov/intro-to-dl-hse/blob/main/homeworks/homework-bonus-knn.ipynb)
