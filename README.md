@@ -9,12 +9,12 @@
 ## Лекции
 
 1. Автоматическое дифференцирование, полносвязные нейронные сети: [запись](https://www.youtube.com/watch?v=g552oCpg-NE&list=PLEwK9wdS5g0onnKgvKxuUJN1Ojchl9Q9P&index=1&t=1756s&ab_channel=ФКНВШЭ—дистанционныезанятия)
-2. Оптимизация нейронных сетей, SGD, Adam/AdamW. Dropout и Batch-нормализация:
+2. Оптимизация нейронных сетей, SGD, Adam/AdamW. Dropout и Batch-нормализация: [запись](https://www.youtube.com/watch?v=O9JV_Kgd31E&list=PLEwK9wdS5g0onnKgvKxuUJN1Ojchl9Q9P&index=3&t=1939s&ab_channel=ФКНВШЭ—дистанционныезанятия)
 
 ## Семинары
 
 1. Введение в библиотеку PyTorch. Автоматическое дифференцирование: [запись (группа 202)](https://www.youtube.com/watch?v=j6JxUpGaav4&list=PLEwK9wdS5g0onnKgvKxuUJN1Ojchl9Q9P&index=2&t=3s&ab_channel=ФКНВШЭ—дистанционныезанятия)
-2. Полносвязные нейронные сети. Общая схема пайплайна обучения на PyTorch:
+2. Полносвязные нейронные сети. Общая схема пайплайна обучения на PyTorch: [запись (группа 202)](https://www.youtube.com/watch?v=LZQVBuzttjM&list=PLEwK9wdS5g0onnKgvKxuUJN1Ojchl9Q9P&index=4&t=1799s&ab_channel=ФКНВШЭ—дистанционныезанятия)
 
 ## Маленькие домашние задания
 
