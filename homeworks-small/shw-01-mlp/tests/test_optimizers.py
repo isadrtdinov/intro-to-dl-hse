@@ -42,7 +42,7 @@ def test_optimizer(custom_opt, torch_opt, opt_kwargs,
         debug_msg = f'Error in {custom_opt.__name__} in '
 
         for param1, param2 in zip(module1.parameters(), module2.parameters()):
-            param2.data = torch.from_numpy(param1)
+            param2.data = torch.from_numpy(np.copy(param1))
 
         for _ in range(inner_iters):
             x1 = np.random.randn(batch_size, in_features)

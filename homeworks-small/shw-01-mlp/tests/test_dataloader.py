@@ -64,7 +64,7 @@ def _test_dataloader(dataset_shape, batch_size=1, shuffle=False, unsqueezed_y=Tr
             assert X_collected.shape == X.shape, msg
             assert y_collected.shape == y.shape, msg
 
-            msg = debug_msg + 'collected_dataset has wrong type'
+            msg = debug_msg + 'collected dataset has wrong type'
             assert X_collected.dtype == X.dtype, msg
             assert y_collected.dtype == y.dtype, msg
 
