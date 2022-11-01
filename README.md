@@ -12,13 +12,15 @@
 2. Оптимизация нейронных сетей, SGD, Adam/AdamW. Dropout и Batch-нормализация: [запись](https://www.youtube.com/watch?v=O9JV_Kgd31E&list=PLEwK9wdS5g0onnKgvKxuUJN1Ojchl9Q9P&index=3&t=1939s&ab_channel=ФКНВШЭ—дистанционныезанятия)
 3. Разбор дифференцирования из МДЗ 1, операция свертки: [запись](https://youtu.be/xa69n0yCid8)
 4. Архитектуры сверточных нейронных сетей: [запись](https://youtu.be/5S5HpbDm7eA)
+5. Задачи компьютерного зрения, сегментация и детекция: [запись](https://youtu.be/gJfDJoLEZIY)
 
 ## Семинары
 
 1. Введение в библиотеку PyTorch. Автоматическое дифференцирование: [запись (группа 202)](https://www.youtube.com/watch?v=j6JxUpGaav4&list=PLEwK9wdS5g0onnKgvKxuUJN1Ojchl9Q9P&index=2&t=3s&ab_channel=ФКНВШЭ—дистанционныезанятия)
 2. Полносвязные нейронные сети. Общая схема пайплайна обучения на PyTorch: [запись (группа 202)](https://www.youtube.com/watch?v=LZQVBuzttjM&list=PLEwK9wdS5g0onnKgvKxuUJN1Ojchl9Q9P&index=4&t=1799s&ab_channel=ФКНВШЭ—дистанционныезанятия)
 3. Свертки в PyTorch, реализация архитектуры LeNet: [запись (группа 202)](https://youtu.be/C.CCiGacZAVo)
-4. Обучение моделей из torchvision, аугментации и fine-tuning [запись (группа 202)](https://youtu.be/1wCd23p2l98)
+4. Обучение моделей из torchvision, аугментации и fine-tuning: [запись (группа 202)](https://youtu.be/1wCd23p2l98)
+5. Семантическая сегментация и детекция: [запись](https://youtu.be/NSNYSEYAHa8)
 
 ## Маленькие домашние задания
 
