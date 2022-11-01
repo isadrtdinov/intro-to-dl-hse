@@ -20,7 +20,7 @@
 2. Полносвязные нейронные сети. Общая схема пайплайна обучения на PyTorch: [запись (группа 202)](https://www.youtube.com/watch?v=LZQVBuzttjM&list=PLEwK9wdS5g0onnKgvKxuUJN1Ojchl9Q9P&index=4&t=1799s&ab_channel=ФКНВШЭ—дистанционныезанятия)
 3. Свертки в PyTorch, реализация архитектуры LeNet: [запись (группа 202)](https://youtu.be/C.CCiGacZAVo)
 4. Обучение моделей из torchvision, аугментации и fine-tuning: [запись (группа 202)](https://youtu.be/1wCd23p2l98)
-5. Семантическая сегментация и детекция: [запись](https://youtu.be/NSNYSEYAHa8)
+5. Семантическая сегментация и детекция: [запись (группа 202)](https://youtu.be/NSNYSEYAHa8)
 
 ## Маленькие домашние задания
 
