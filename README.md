@@ -36,3 +36,4 @@
 Теоретические ДЗ не сдаются и предлагаются студентам для самостоятельного решения и ознакомления
 
 1. Полносвязные нейронные сети: [ссылка](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2022-2023/homeworks-theory/thw-01-mlp.pdf)
+2. Сверточные нейронные сети: [ссылка](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2022-2023/homeworks-theory/thw-02-cnn.pdf)
