@@ -18,6 +18,7 @@
 4. Архитектуры сверточных нейронных сетей: [запись](https://youtu.be/5S5HpbDm7eA)
 5. Задачи компьютерного зрения, сегментация и детекция: [запись](https://youtu.be/gJfDJoLEZIY)
 6. Токенизация текстов, эмбеддинги слов, TextCNN: [запись](https://youtu.be/WihC2R5lNmg)
+7. Рекуррентные нейронные сети, языковые модели: [запись](https://youtu.be/Ysj4i2S0D6c)
 
 ## Семинары
 
@@ -27,6 +28,7 @@
 4. Обучение моделей из torchvision, аугментации и fine-tuning: [запись (группа 202)](https://youtu.be/1wCd23p2l98)
 5. Семантическая сегментация и детекция: [запись (группа 202)](https://youtu.be/NSNYSEYAHa8)
 6. Word2Vec, Fasttext и TextCNN: [запись (группа 202)](https://youtu.be/2r67B1sPlDU)
+7. Генерация последовательностей, image captioning: [запись (группа 202)](https://youtu.be/-KdvXtUhwEk)
 
 ## Маленькие домашние задания
 
