@@ -20,6 +20,7 @@
 6. Токенизация текстов, эмбеддинги слов, TextCNN: [запись](https://youtu.be/WihC2R5lNmg)
 7. Рекуррентные нейронные сети, языковые модели: [запись](https://youtu.be/Ysj4i2S0D6c)
 8. Архитектура трансформера: [запись](https://youtu.be/wLUJVRqzEyM)
+9. Self-supervised learning, BERT, SimCLR: [запись](https://youtu.be/VpfqcP8HRmQ)
 
 ## Семинары
 
@@ -31,11 +32,13 @@
 6. Word2Vec, Fasttext и TextCNN: [запись (группа 202)](https://youtu.be/2r67B1sPlDU)
 7. Генерация последовательностей, image captioning: [запись (группа 202)](https://youtu.be/-KdvXtUhwEk)
 8. Архитектура трансформера: [запись (группа 202)](https://youtu.be/QY456sQVTrM)
+9. Дообучение модели BERT: [запись (группа 202)](https://youtu.be/XeFc3-_AYl8)
 
 ## Маленькие домашние задания
 
 1. Автоматическое дифференцирование и полносвязные нейронные сети: [ссылка](https://github.com/isadrtdinov/intro-to-dl-hse/tree/2022-2023/homeworks-small/shw-01-mlp)
 2. Сверточный классификатор: [ссылка](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2022-2023/homeworks-small/shw-02-cnn.ipynb)
+3. RNN и языковые модели: [ссылка](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2022-2023/homeworks-small/shw-03-rnn/shw-03-rnn.ipynb)
 
 ## Теоретические домашние задания
 
