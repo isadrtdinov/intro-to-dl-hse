@@ -4,6 +4,10 @@
   <img src="image.png" width="50%"/>
 </p>
 
+## Версии курса прошлых лет
+
+* [2021-2022](https://github.com/isadrtdinov/intro-to-dl-hse/tree/2021-2022)
+
 ## Полезные ссылки
 
 * [Вики-страничка](http://wiki.cs.hse.ru/Глубинное_обучение_1_22/23)
