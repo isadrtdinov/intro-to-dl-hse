@@ -25,6 +25,7 @@
 7. Рекуррентные нейронные сети, языковые модели: [запись](https://youtu.be/Ysj4i2S0D6c)
 8. Архитектура трансформера: [запись](https://youtu.be/wLUJVRqzEyM)
 9. Self-supervised learning, BERT, SimCLR: [запись](https://youtu.be/VpfqcP8HRmQ)
+10. Трансформеры для компьютерного зрения: [запись](https://youtu.be/Dd7uQiAzrnA)
 
 ## Семинары
 
@@ -37,6 +38,7 @@
 7. Генерация последовательностей, image captioning: [запись (группа 202)](https://youtu.be/-KdvXtUhwEk)
 8. Архитектура трансформера: [запись (группа 202)](https://youtu.be/QY456sQVTrM)
 9. Дообучение модели BERT: [запись (группа 202)](https://youtu.be/XeFc3-_AYl8)
+10. Семинар не проводился
 
 ## Маленькие домашние задания
 
