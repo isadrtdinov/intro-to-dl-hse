@@ -12,7 +12,7 @@
 ## Полезные ссылки
 
 * [Вики-страничка](http://wiki.cs.hse.ru/Глубинное_обучение_1_23/24)
-* [Таблица с оценками (TBA)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [Таблица с оценками](https://docs.google.com/spreadsheets/d/1D0m5CFlj6CJPUhYPTsCAhD-euPCV31iZGDnib08SGuI/edit?usp=sharing)
 * [Плейлист с записями занятий (TBA)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Лекции
