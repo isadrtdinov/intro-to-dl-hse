@@ -13,9 +13,12 @@
 
 * [Вики-страничка](http://wiki.cs.hse.ru/Глубинное_обучение_1_23/24)
 * [Таблица с оценками](https://docs.google.com/spreadsheets/d/1D0m5CFlj6CJPUhYPTsCAhD-euPCV31iZGDnib08SGuI/edit?usp=sharing)
-* [Плейлист с записями занятий (TBA)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [Плейлист с записями занятий](https://www.youtube.com/playlist?list=PLEwK9wdS5g0q1A2aQI83jeaRPwhBZhprY)
 
 ## Лекции
+
+[Глоссарий](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/glossary.md) с терминами.
+1. Backpropagation algorithm, fully-connected networks: [запись](https://youtu.be/DXZK3rpDp4U?si=UpS9dkXpNXB4uF0Q), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-01-mlp.pdf)
 
 ## Семинары
 
