@@ -1,0 +1,61 @@
+[tool.poetry]
+name = "hse-dl-212"
+version = "1.0.0"
+description = "Intro to DL seminars for 212 group HSE AMI"
+authors = ["Alexey Birshert <https://t.me/Birshert>"]
+license = "MIT License"
+
+[[tool.poetry.source]]
+name = "PyPI"
+priority = "primary"
+
+[[tool.poetry.source]]
+name = "pytorch_cu118"
+url = "https://download.pytorch.org/whl/cu118"
+priority = "supplemental"
+
+[tool.poetry.dependencies]
+python = "3.10.x"
+torch = "2.0.1+cu118"
+torchvision = "0.15.2+cu118"
+torchaudio = "2.0.2+cu118"
+
+[tool.poetry.dev-dependencies]
+jupyter = "^1.0.0"
+
+[tool.isort]
+line_length = 120
+sections = ["FUTURE", "STDLIB", "THIRDPARTY", "FIRSTPARTY", "LOCALFOLDER"]
+no_lines_before = ["STDLIB", "LOCALFOLDER"]
+known_third_party = []
+multi_line_output = 3
+lines_after_imports = 2
+profile = "black"
+combine_as_imports = true
+
+[tool.black]
+line-length = 120
+target-version = ["py310"]
+
+[tool.ruff]
+fix = true
+
+select = ["ALL"]
+ignore = ["I","EM","FBT","TRY003","S101","D101","D102","D103","D104","D105","G004","D107","D211","D213","FA102"]
+
+fixable = ["ALL"]
+unfixable = ["F841"]
+
+exclude = [
+    ".git",
+    ".ruff_cache",
+]
+
+line-length = 120
+
+target-version = "py310"
+
+cache-dir = "~/.cache/ruff"
+
+[tool.ruff.mccabe]
+max-complexity = 10
