@@ -13,3 +13,14 @@
 |            activation function, non-linear function             |       функция активации, функции нелинейности        |      нелинейность       |
 |                             neuron                              |                        нейрон                        |         &mdash;         |
 | hidden layer, hidden unit, hidden vector, latent representation | скрытый слой, скрытый вектор, скрытое представление  |         &mdash;         |                                                             |                                                      |                         |
+
+## Лекция 2
+
+|       English       | Русский (официально-литературный) | Русский (жаргонный) |
+|:-------------------:|:---------------------------------:|:-------------------:|
+|        logit        |               логит               |       &mdash;       |
+|       softmax       |             софтмакс              |       &mdash;       |
+| cross-entropy loss  | кросс-энтропийная функция потерь  |   кросс-энтропия    |
+|       dropout       |              дропаут              |       &mdash;       |
+|        batch        |               пакет               |        батч         |
+| Batch Normalization |       пакетная нормализация       |      батчнорма      |
