@@ -19,7 +19,6 @@
 
 [Глоссарий](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/glossary.md) с терминами.
 1. Backpropagation algorithm, fully-connected networks: [запись](https://youtu.be/DXZK3rpDp4U?si=UpS9dkXpNXB4uF0Q), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-01-mlp.pdf)
-2. Cross-entropy loss, Dropout, Batch Normalization: [запись](https://youtu.be/SWD-Zk4P1j0?si=hzIUcGtfzrx27FGC), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-02-dropout-batchnorm.pdf)
 
 ## Семинары
 
