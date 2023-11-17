@@ -23,6 +23,7 @@
 3. Оптимизация нейронных сетей: [запись](https://youtu.be/_RbndAAVMA4?si=E0Uk0rm2G9OqA9Sv), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-03-optimization.pdf)
 4. Операция свертки: [запись](https://youtu.be/C__S5v9iObQ?si=8MyDx4xjb8aj3B8A), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-04-convolution.pdf)
 5. Сверточные архитектуры: [запись](https://youtu.be/NYKiAqT8xXY?si=lrkSvIIGQ93y-tay), [слайды](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-05-cnn.pdf)
+6. Задачи компьютерного зрения: [запись](https://youtu.be/GGFSKLPKeL4?si=RMsn5BZm0pws0pYN), [слайды](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-06-cv.pdf)
 
 ## Семинары
 
