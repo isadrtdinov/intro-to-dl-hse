@@ -18,7 +18,7 @@ ENV PIP_DISABLE_PIP_VERSION_CHECK=on \
 
 RUN apt-get update --yes --quiet && \
     DEBIAN_FRONTEND=noninteractive apt-get install --yes --quiet --no-install-recommends \
-    software-properties-common build-essential apt-utils wget curl git && \
+    software-properties-common build-essential apt-utils wget curl git unzip && \
     rm -rf /var/lib/apt/lists/*
 
 RUN add-apt-repository --yes ppa:deadsnakes/ppa && apt-get update --yes --quiet
