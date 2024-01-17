@@ -24,6 +24,10 @@
 4. Операция свертки: [запись](https://youtu.be/C__S5v9iObQ?si=8MyDx4xjb8aj3B8A), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-04-convolution.pdf)
 5. Сверточные архитектуры: [запись](https://youtu.be/NYKiAqT8xXY?si=lrkSvIIGQ93y-tay), [слайды](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-05-cnn.pdf)
 6. Задачи компьютерного зрения: [запись](https://youtu.be/GGFSKLPKeL4?si=RMsn5BZm0pws0pYN), [слайды](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-06-cv.pdf)
+7. Токенизация, эмбеддинги, TextCNN: [запись](https://youtu.be/pLFnqfvM7No?si=80fJ_ed_EwQ-HRB0), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-07-embeddings.pdf)
+8. Рекуррентные нейронные сети: [запись](https://youtu.be/sXWwrz4v2OQ?si=XVbZe354-6BKCanA), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-08-rnn.pdf)
+9. Архитектура трансформера: [запись](https://youtu.be/x5bIzeIPdvI?si=RLSwLi8qQgfGyKfk), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-09-transformer.pdf)
+10. Self-supervised learning, BERT, SimCLR: [запись](https://youtu.be/XEZBwLRPDBY?si=JaB0HEFl0XashYI8), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-10-self-supervised.pdf)
 
 ## Семинары
 
