@@ -28,6 +28,7 @@
 8. Рекуррентные нейронные сети: [запись](https://youtu.be/sXWwrz4v2OQ?si=XVbZe354-6BKCanA), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-08-rnn.pdf)
 9. Архитектура трансформера: [запись](https://youtu.be/x5bIzeIPdvI?si=RLSwLi8qQgfGyKfk), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-09-transformer.pdf)
 10. Self-supervised learning, BERT, SimCLR: [запись](https://youtu.be/XEZBwLRPDBY?si=JaB0HEFl0XashYI8), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-10-self-supervised.pdf)
+11. Трансформеры для компьютерного зрения: [запись](https://youtu.be/OH6IVeoaAmQ), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-11-vit.pdf)
 
 ## Семинары
 
