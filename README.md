@@ -39,6 +39,7 @@
 
 1. Автоматическое дифференцирование и полносвязные нейронные сети: [ссылка](https://github.com/isadrtdinov/intro-to-dl-hse/tree/2023-2024/homeworks-small/shw-01-mlp)
 2. Сверточный классификатор: [ссылка](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/homeworks-small/shw-02-cnn.ipynb)
+3. RNN и языковые модели: [ссылка](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/homeworks-small/shw-03-rnn)
 
 ## Теоретические домашние задания
 
