@@ -29,17 +29,31 @@
 9. Архитектура трансформера: [запись](https://youtu.be/x5bIzeIPdvI?si=RLSwLi8qQgfGyKfk), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-09-transformer.pdf)
 10. Self-supervised learning, BERT, SimCLR: [запись](https://youtu.be/XEZBwLRPDBY?si=JaB0HEFl0XashYI8), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-10-self-supervised.pdf)
 11. Трансформеры для компьютерного зрения: [запись](https://youtu.be/OH6IVeoaAmQ), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-11-vit.pdf)
+12. Оптимизации для применения нейронных сетей: [запись](https://youtu.be/rW6hQloci7M?si=dgl1Xbil5TF2epFT), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-12-opt-inference.pdf)
+13. Соревновательные атаки, генеративно-состязательные сети (GANs): [запись](https://youtu.be/EbuW6AFAfho?si=rymJJuesSQJzorZe), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-13-adversarial.pdf)
+14. Вариационный автокодировщик: [запись](https://youtu.be/KiwaAQBYbCI?si=6tkRKvepE7xiZgzA), [доска](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-14-vae.pdf)
+15. Диффузионные модели: [запись](https://youtu.be/H0fczcpFbpg?si=oKjfKqrvykZZIylk)
 
 ## Семинары
 
 1. Введение в библиотеку PyTorch. Автоматическое дифференцирование: [ноутбук](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/seminars/212/01/Seminar_1_Intro_to_DL.ipynb)
 2. Полносвязные нейронные сети. Общая схема пайплайна обучения на PyTorch: [ноутбук](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/seminars/212/02/Seminar_2_Intro_to_DL.ipynb)
+3. Операция свертки: [ноутбук](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/seminars/212/03/Seminar_3_Intro_to_DL.ipynb)
+4. Сверточные архитектуры: [ноутбук](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/seminars/212/04/Seminar_4_Intro_to_DL.ipynb)
+5. Семантическая сегментация и детекция: [ноутбук](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/seminars/212/05/Seminar_5_Intro_to_DL.ipynb)
+6. Word2Vec, TextCNN: [ноутбук](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/seminars/212/06/Seminar_6_Intro_to_DL.ipynb)
+7. Language models, image captioning: [ноутбук](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/seminars/212/07/Seminar_7_Intro_to_DL.ipynb)
+8. Архитектура трансформера: [ноутбук](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/seminars/212/08/Seminar_8_Intro_to_DL.ipynb)
+9. BERT, question answering: [ноутбук](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/seminars/211/Seminar_9_DL_1.ipynb)
+10. Соревновательные атаки, генеративно-состязательные сети (GANs): [ноутбук](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/seminars/213/seminar-11-adversarial.ipynb)
+11. Вариационный автокодировщик (VAE): [ноутбук](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/seminars/213/seminar-12-vae.ipynb)
 
 ## Маленькие домашние задания
 
 1. Автоматическое дифференцирование и полносвязные нейронные сети: [ссылка](https://github.com/isadrtdinov/intro-to-dl-hse/tree/2023-2024/homeworks-small/shw-01-mlp)
 2. Сверточный классификатор: [ссылка](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/homeworks-small/shw-02-cnn.ipynb)
 3. RNN и языковые модели: [ссылка](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/homeworks-small/shw-03-rnn)
+4. **(бонус)** Обучение модели CLIP: [ссылка](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/homeworks-small/shw-04-ssl-bonus)
 
 ## Теоретические домашние задания
 
